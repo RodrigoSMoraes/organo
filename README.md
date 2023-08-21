@@ -1,6 +1,6 @@
-# página Organo
+# Organo
 
-## Projeto desenvolvido em react
+## Projeto desenvolvido em react no curso da Alura React: Desenvolvendo em javascript
 
 
 
